@@ -221,7 +221,7 @@ The LaTeX source to the assembly instructions is in the =assembly= directory.
 These fine projects all provided inspiration for various aspects of
 the Atreus, as well as the folks on the =#geekhack= freenode channel.
 
-- [[http://ergodox.org][Ergodox]]
+- [[https://ergodox-ez.com/][Ergodox]]
 - [[http://deskthority.net/workshop-f7/onehand-20-keyboard-t6617.html][OneHand]]
 - [[http://blog.fsck.com/2013/12/better-and-better-keyboards.html][keyboard.io]]
 - [[http://geekhack.org/index.php?topic=48718][ErgoT]]
